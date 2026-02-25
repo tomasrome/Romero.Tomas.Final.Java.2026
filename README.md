@@ -1,6 +1,6 @@
-# El Gato Tuerto — Sistema de Rental de Equipamiento Médico
+# El Gato Tuerto — Rental de Equipamiento Médico
 <div align="center">
-  <img src="RentalMedicoGatoTuerto\src\rentalmedicogatotuerto\images\logo.png" width="400" alt="Menu Principal">
+  <img src="logo.png" width="400" alt="Menu Principal">
 </div>
 
 ---
@@ -21,8 +21,8 @@ La aplicación permite administrar tres tipos de equipos médicos: **Monitores**
 
 
 <div align="center">
-  <img src="RentalMedicoGatoTuerto\src\rentalmedicogatotuerto\images\bienvenida.jpg" width="700" alt="Menu Principal">
-  <img src="RentalMedicoGatoTuerto\src\rentalmedicogatotuerto\images\gestor.jpg" width="700" alt="Gameplay">
+  <img src="bienvenida.jpg" width="700" alt="Menu Principal">
+  <img src="gestor.jpg" width="700" alt="Gameplay">
 </div>
 
 ### Funcionalidades principales
@@ -42,7 +42,7 @@ La aplicación permite administrar tres tipos de equipos médicos: **Monitores**
 ## UML - Diagrama de Clases
 
 <div align="center">
-  <img src="RentalMedicoGatoTuerto\src\rentalmedicogatotuerto\images\uml.png" width="700" alt="Menu Principal">
+  <img src="uml.png" width="700" alt="Menu Principal">
 </div>
 
 ## ⚙️ Requisitos técnicos implementados
